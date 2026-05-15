@@ -1,0 +1,15 @@
+{
+  "name": "OptiVista Pro - SaaS Opticien",
+  "description": "Logiciel SaaS multi-tenant complet pour la gestion de boutiques d'optique au Maroc. Module CRM, Ordonnances, Devis, Factures et Marketing IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Full-stack CRM",
+    "Multi-tenant architecture",
+    "Prescription tracking",
+    "Inventory management",
+    "Invoice generation"
+  ]
+}
